@@ -1,0 +1,46 @@
+/*General content*/
+body {
+    background-color: rgb(92, 178, 218);  /*EDIT ME:Page background color*/
+    font-family: "open Sans",sans-serif;
+    padding: 5px 25px;
+    font-size: 25px;
+    width: 1200px;
+    margin: auto;
+    color: #3a383f;
+}
+th{
+    width: 700px;;
+    border: 3px solid lightgreen;
+    background-color:lightgreen;
+
+}
+h1,h2{
+    font-size: 45px;
+    font-family: "merriweather",serif;
+    clear: both;/*put list on new line*/
+}
+img{
+    width: 500px;
+    margin: 22px 10px 10px 0px;
+    float: left; 
+}
+<body>
+        <h1>Vishnu's Favorate Animal</h1>
+        <img src="https://images.unsplash.com/photo-1582002834723-2256d33da100?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80" width="300">
+        <p>
+            My name is Vishnu my favorate animal is the moose.
+            They can be upto 6.5feet tall and weigh 1200 pounds.
+            Surprisingly,they're really good at swimming
+        </p>
+        <p>If you want to learn more about moose, check out
+            <a href="https://en.wikipedia.org/wiki/Moose">its
+                wikipedia page
+            </a>
+        </p>
+u1.nav a:link, ul.nav a:visited{
+    display:block;
+    width: 330px;
+    color: #454;
+    back
+}
+
